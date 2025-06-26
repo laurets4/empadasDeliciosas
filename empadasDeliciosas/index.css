@@ -1,0 +1,39 @@
+body{
+     
+}
+#ai{
+text-align: center;
+background-color: rgb(0, 106, 255);
+padding: 13px;
+color: rgb(0, 0, 129);
+}
+#ixi{
+text-align: center;
+background-color: rgb(165, 211, 255);
+padding: 10px;
+
+} 
+#p{
+    text-align: left;
+    padding: 15px;
+    background-color: rgb(118, 203, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#ixi a{
+    text-decoration: none;
+
+}
+#m{
+    text-align: center;
+}
+#L{
+    text-align: center;
+}
+#VI{
+    text-align: left;
+    background-color: rgb(72, 48, 255);
+    margin-right: 150px;
+    margin-left: 150px;
+    padding: 10px;
+}

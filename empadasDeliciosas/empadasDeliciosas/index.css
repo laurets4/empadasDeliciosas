@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(0, 64, 255);
+}
+#nome{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 60px;
+    
+}
+#sla{
+    text-align: center;
+}
